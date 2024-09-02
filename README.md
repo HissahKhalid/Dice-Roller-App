@@ -30,7 +30,10 @@ To get started with this project, follow these steps:
 
 ## Screenshots
 
-
+<div style="display: flex; gap: 10px;">
+  <img src="output/1.JPG" alt="Screenshot 1" width="300"/>
+  <img src="output/2.JPG" alt="Screenshot 2" width="300"/>
+</div>
 
 ## Contributing
 If you want to contribute to this project, feel free to open issues or submit pull requests. Your feedback and contributions are highly appreciated!
