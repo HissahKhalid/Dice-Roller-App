@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dice-roller-app.git
+   git clone https://github.com/hissahKhalid/dice-roller-app.git
 2. **Navigate to the Project Directory:**
     ```bash
     cd dice-roller-app
